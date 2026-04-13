@@ -1,0 +1,101 @@
+> Kholoud:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sushi Restaurant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    
+    <!-- Header -->
+    <header>
+        <h1 >Sushi House 🍣</h1>
+        <nav>
+            <a  href="#">Home</a>
+            <a  href="#">Menu</a>
+            <a  href="#">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h2>Fresh & Delicious Sushi</h2>
+        <p>Experience the taste of Japan</p>
+        <button>Order Now</button>
+    </section>
+
+    <!-- Menu Section -->
+    <section class="menu">
+        <h2>Our Menu</h2>
+
+        <div class="cards">
+
+            <div class="card">
+                <img src="./WhatsApp Image 2026-04-05 at 5.37.53 PM.jpeg" alt="Sushi">
+                <h3>Salmon Sushi</h3>
+                <p>Fresh salmon with rice</p>
+                <span>$10</span>
+            </div>
+
+            <div class="card">
+                <img src="./WhatsApp Image 2026-04-05 at 5.37.53 PM.jpeg" alt="Sushi">
+                <h3>Tuna Roll</h3>
+                <p>Delicious tuna roll</p>
+                <span>$12</span>
+            </div>
+
+            <div class="card">
+                <img src="./WhatsApp Image 2026-04-05 at 5.37.53 PM.jpeg" alt="Sushi">
+                <h3>Avocado Roll</h3>
+                <p>Healthy and tasty</p>
+                <span>$8</span>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Sushi House. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+> Kholoud:
+https://www.geeksforgeeks.org/c-sharp/how-to-install-and-setup-visual-studio-for-c-sharp/
+
+> Kholoud:
+https://www.programiz.com/csharp-programming/online-compiler/
+
+> Kholoud:
+https://app.diagrams.net/
+
+> Kholoud:
+https://share.google/onyY6RRL3eeFNqRqD
+
+> Kholoud:
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>خلود حسين - مهندسة قوى ومطورة ويب</h1></header>
+    <section><h2>عني</h2><p>طالبة هندسة قوى كهربائية أسعى للتميز في البرمجة.</p></section>
+    <section><h2>المهارات</h2><ul><li>Web Design</li><li>Electrical Design</li><li>C#</li></ul></section>
+</body>
+</html>
+
+> Kholoud:
+body { font-family: sans-serif; background: #f0f0f0; text-align: center; }
+header { background: #2c3e50; color: white; padding: 20px; }
+section { margin: 20px; padding: 20px; background: white; border-radius: 10px; }
+
+> Slwca:
+بالتوفيق
